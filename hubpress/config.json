@@ -6,7 +6,8 @@
   },
   "site": {
     "title": "Kyle David Rudy yduR divaD elyK",
-    "description": "Yea, you know wonk uoy ,aeY"
+    "description": "Yea, you know wonk uoy ,aeY",
+    "postsPerPage": "5"
   },
   "socialnetwork": {},
   "theme": {
