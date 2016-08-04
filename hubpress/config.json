@@ -4,7 +4,12 @@
     "repositoryName": "kdrudy.github.io",
     "branch": "master"
   },
+  "site": {
+    "title": "Kyle David Rudy yduR divaD elyK",
+    "description": "Yea, you know wonk uoy ,aeY"
+  },
+  "socialnetwork": {},
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
