@@ -2,7 +2,7 @@
 
 This is my favorite part of the old Sun Java license, hard to track down:
 
-4.  High Risk Activities.  Notwithstanding Section 2, with respect to
+* 4.  High Risk Activities.  Notwithstanding Section 2, with respect to
 high risk activities, the following language shall apply: the Software
 is not designed or intended for use in on-line control of aircraft,
 air traffic, aircraft navigation or aircraft communications; or in the
