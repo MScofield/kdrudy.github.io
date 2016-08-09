@@ -1,3 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Kyle David Rudy yduR divaD elyK]]></title><description><![CDATA[Yea, you know wonk uoy ,aeY]]></description><link>https://kdrudy.github.io</link><generator>RSS for Node</generator><lastBuildDate>Thu, 04 Aug 2016 14:34:11 GMT</lastBuildDate><atom:link href="https://kdrudy.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Blog Post]]></title><description><![CDATA[<div class="paragraph">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Kyle David Rudy yduR divaD elyK]]></title><description><![CDATA[Yea, you know wonk uoy ,aeY]]></description><link>https://kdrudy.github.io</link><generator>RSS for Node</generator><lastBuildDate>Tue, 09 Aug 2016 20:56:57 GMT</lastBuildDate><atom:link href="https://kdrudy.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Old License Terms]]></title><description><![CDATA[<div class="paragraph">
+<p>This is my favorite part of the old Sun Java license, hard to track down:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>4.  High Risk Activities.  Notwithstanding Section 2, with respect to
+high risk activities, the following language shall apply: the Software
+is not designed or intended for use in on-line control of aircraft,
+air traffic, aircraft navigation or aircraft communications; or in the
+design, construction, operation or maintenance of any nuclear
+facility. Sun disclaims any express or implied warranty of fitness for
+such uses.</p>
+</li>
+</ul>
+</div>]]></description><link>https://kdrudy.github.io/2016/08/08/Old-License-Terms.html</link><guid isPermaLink="true">https://kdrudy.github.io/2016/08/08/Old-License-Terms.html</guid><dc:creator><![CDATA[Kyle David Rudy]]></dc:creator><pubDate>Mon, 08 Aug 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Blog Post]]></title><description><![CDATA[<div class="paragraph">
 <p>What a testing post, wow hey how is it going, pretty good huh, crazy right, well see ya!</p>
 </div>]]></description><link>https://kdrudy.github.io/2016/08/04/Blog-Post.html</link><guid isPermaLink="true">https://kdrudy.github.io/2016/08/04/Blog-Post.html</guid><dc:creator><![CDATA[Kyle David Rudy]]></dc:creator><pubDate>Thu, 04 Aug 2016 00:00:00 GMT</pubDate></item></channel></rss>
