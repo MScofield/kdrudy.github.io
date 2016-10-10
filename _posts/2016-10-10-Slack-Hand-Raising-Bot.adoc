@@ -1,5 +1,6 @@
 = Slack Hand Raising Bot
 
+
 So in the run up to class I've been working on a Slack bot that will allow students to anonymously ask questions.  It's been intersesting to dive into the Slack API.
 
 I'm using https://github.com/ramswaroop/jbot[JBot] a Spring based Java framework for building Slack bots.  It can help you write slash commands, straight-forward bots, and tie into incoming and outgoing webhooks.  I startd writing a slash command but realized those don't end up being anonymous since anyone can see the slash command you entered so that's when I moved on to writing a bot.  
