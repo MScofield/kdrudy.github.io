@@ -1,0 +1,10 @@
+= Slack Hand Raising Bot
+
+So in the run up to class I've been working on a Slack bot that will allow students to anonymously ask questions.  It's been intersesting to dive into the Slack API.
+
+I'm using https://github.com/ramswaroop/jbot[JBot] a Spring based Java framework for building Slack bots.  It can help you write slash commands, straight-forward bots, and tie into incoming and outgoing webhooks.  I startd writing a slash command but realized those don't end up being anonymous since anyone can see the slash command you entered so that's when I moved on to writing a bot.  
+
+The idea behind the bot is that you direct message it a question and it will ask your question in the Slack channel for your class anonymously.  We don't want any student to be afraid to ask questions.  The trick with the bot ended up being that your direct messages only contain the senders user ID, so I had to convert that into a user name in order to properly route it.  User IDs in Slack are not easy to find unless you are working directly with the API, so for ease of use I'm routing based on user name.  When we match the user name to a class, I can then send a question to the right channel.  I had to access Slack's Web API and get user info from that in JSON form, there was no good way to get that data from inside https://github.com/ramswaroop/jbot[JBot], though it looks like the guy who made it plans to add Web API functionality in the future.  For now I'm managing it myself and it worked like a charm.  
+
+I'm using Spring's `application.properties` file to maintain the class channel, instructor and list of students.  That should make it relatively easy for non-Java users to go in and update if I'm ever not available to make an update.  
+
