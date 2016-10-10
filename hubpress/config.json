@@ -9,7 +9,10 @@
     "description": "Yea, you know wonk uoy ,aeY",
     "postsPerPage": "5"
   },
-  "socialnetwork": {},
+  "socialnetwork": {
+    "email": "kyle.rudy@theironyard.com",
+    "twitter": "kyru"
+  },
   "theme": {
     "name": "casper"
   }
