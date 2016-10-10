@@ -1,7 +1,5 @@
 = Slack Hand Raising Bot
-:author: Kyle David Rudy
-:email: kyle.rudy@theironyard.com
-:keywords: slack, jbot, the iron yard
+:hp-tags: slack, jbot, the iron yard
 
 So in the run up to class I've been working on a Slack bot that will allow students to anonymously ask questions.  It's been intersesting to dive into the Slack API.
 
