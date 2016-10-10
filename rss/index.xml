@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Kyle David Rudy yduR divaD elyK]]></title><description><![CDATA[Yea, you know wonk uoy ,aeY]]></description><link>https://kdrudy.github.io</link><generator>RSS for Node</generator><lastBuildDate>Mon, 10 Oct 2016 20:15:31 GMT</lastBuildDate><atom:link href="https://kdrudy.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Slack Hand Raising Bot]]></title><description><![CDATA[<div class="paragraph">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Kyle David Rudy yduR divaD elyK]]></title><description><![CDATA[Yea, you know wonk uoy ,aeY]]></description><link>https://kdrudy.github.io</link><generator>RSS for Node</generator><lastBuildDate>Mon, 10 Oct 2016 20:17:03 GMT</lastBuildDate><atom:link href="https://kdrudy.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Slack Hand Raising Bot]]></title><description><![CDATA[<div class="paragraph">
 <p>So in the run up to class I&#8217;ve been working on a Slack bot that will allow students to anonymously ask questions.  It&#8217;s been intersesting to dive into the Slack API.</p>
 </div>
 <div class="paragraph">
@@ -9,7 +9,7 @@
 </div>
 <div class="paragraph">
 <p>I&#8217;m using Spring&#8217;s <code>application.properties</code> file to maintain the class channel, instructor and list of students.  That should make it relatively easy for non-Java users to go in and update if I&#8217;m ever not available to make an update.</p>
-</div>]]></description><link>https://kdrudy.github.io/2016/10/10/Slack-Hand-Raising-Bot.html</link><guid isPermaLink="true">https://kdrudy.github.io/2016/10/10/Slack-Hand-Raising-Bot.html</guid><dc:creator><![CDATA[Kyle David Rudy]]></dc:creator><pubDate>Mon, 10 Oct 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Old License Terms]]></title><description><![CDATA[<div class="paragraph">
+</div>]]></description><link>https://kdrudy.github.io/2016/10/10/Slack-Hand-Raising-Bot.html</link><guid isPermaLink="true">https://kdrudy.github.io/2016/10/10/Slack-Hand-Raising-Bot.html</guid><category><![CDATA[slack]]></category><category><![CDATA[ jbot]]></category><category><![CDATA[ the iron yard]]></category><dc:creator><![CDATA[Kyle David Rudy]]></dc:creator><pubDate>Mon, 10 Oct 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Old License Terms]]></title><description><![CDATA[<div class="paragraph">
 <p>This is my favorite part of the old Sun Java license, hard to track down:</p>
 </div>
 <div class="ulist">
